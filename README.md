@@ -10,8 +10,9 @@
 
 <br><br>
 
-<img width="500" alt="가로형태이미지" src="https://github.com/yunyungu/rovend/assets/157336396/f93d400e-4d48-40cd-8e5f-767bbd028f29">
-<img width="300" alt="세로형태이미지" src="https://github.com/yunyungu/rovend/assets/157336396/b55a92bf-91e8-4937-a328-55d042084872">
+<img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/rovend/assets/157336396/f93d400e-4d48-40cd-8e5f-767bbd028f29">
+<img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/rovend/assets/157336396/54e4de09-84a8-4ebd-9c7f-689aba531d08">
+
 <br><br>
 
 > 이 웹사이트는 반응형 웹사이트의 형대로 작업하였습니다.<br>
@@ -43,7 +44,6 @@
 
 <img width="500" alt="design concept" src="https://github.com/yunyungu/rovend/assets/157336396/86737e6b-390b-4034-83df-d17d0b705b74">
 
-
 * Style Guide
 
 <img width="500" alt="style guide" src="https://github.com/yunyungu/rovend/assets/157336396/d707e0c0-d128-4ef3-ba50-f4b897bdc007">
@@ -74,3 +74,45 @@
 
 ## 상세페이지 소개
 
+### Header 감추기
+
+<img width="400" alt="fullpage" src="https://github.com/yunyungu/rovend/assets/157336396/f94c1852-dc17-4cd5-bfad-ef7ef4880474">
+
+> scroll down하여 header를 감추고, scroll up 하면 다시 보여주는 기능을 사용하였습니다.
+> 이는 jQuery 문법을 활용하여 작업하였습니다.
+
+```
+
+var didScroll;
+var lastScrollTop = 0;
+var delta = 5;
+var navbarHeight = $('header').outerHeight();
+
+$(window).scroll(function(event){
+    didScroll = true;
+});
+
+setInterval(function() {
+    if (didScroll) {
+        hasScrolled();
+        didScroll = false;
+    }
+}, 300);
+
+function hasScrolled() {
+    var st = $(this).scrollTop();
+    if($(lastScrollTop - st) <= delta)
+        return;
+    if (st > lastScrollTop && st > navbarHeight){
+        // Scroll Down
+        $('#header').addClass('nav-up');
+    } else {
+        // Scroll Up
+        if(st + $(window).height() < $(document).height()) {
+            $('#header').removeClass('nav-up');
+        }
+    }
+    lastScrollTop = st;
+}
+
+```
