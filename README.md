@@ -94,9 +94,8 @@ INDEX 페이지는 내비게이션상의 FEED 아이콘과 동일한 페이지�
 > 각각의 스타일에 어울리는 서로 다른 효과를 적용하였습니다.
 
 
-<br><br><br>
+<br><br>
 
----
 
 ### :point_right: Header 감추기
 
@@ -143,9 +142,8 @@ function hasScrolled() {
 
 ```
 
-<br><br><br>
+<br><br>
 
----
 
 ### :point_right: Heart Click event
 
@@ -155,9 +153,8 @@ function hasScrolled() {
 
 > 게시글의 하트 버튼을 클릭하면 움직이는 애니메이션 효과를 적용하였습니다.
 
-<br><br><br>
+<br><br>
 
----
 
 ### :point_right: Bottom Bytton
 
@@ -169,9 +166,8 @@ function hasScrolled() {
 > 이 새로고침 버튼을 통하여 추가적인 feed를 불러올 수 있습니다.<br>
 > 스크롤을 내렸을 때 상단이동 버튼이 추가적으로 등장합니다.
 
-<br><br><br>
+<br><br>
 
----
 
 ### :point_right: My page
 
