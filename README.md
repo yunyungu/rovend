@@ -87,6 +87,8 @@
 <img width="400" alt="swiper story" src="https://github.com/yunyungu/rovend/assets/157336396/f34a8b69-a652-4cb5-964a-dc9af361a0b1">
 <img width="400" alt="swiper feed" src="https://github.com/yunyungu/rovend/assets/157336396/4006ce81-fdc4-4f3e-bccf-4151b1983e3a">
 
+<br>
+
 > 상단의 스토리보드 영역과 게시글의 이미지 스와이프는 Swiper plugin을 활용하여 작업하였습니다.<br>
 > 각각의 스타일에 어울리는 서로 다른 효과를 적용하였습니다.
 
@@ -98,6 +100,8 @@
 ### :point_right: Header 감추기
 
 <img width="400" alt="fullpage" src="https://github.com/yunyungu/rovend/assets/157336396/f94c1852-dc17-4cd5-bfad-ef7ef4880474">
+
+<br>
 
 > scroll down하여 header를 감추고, scroll up 하면 다시 보여주는 기능을 사용하였습니다.
 > 이는 jQuery 문법을 활용하여 작업하였습니다.
@@ -145,5 +149,7 @@ function hasScrolled() {
 ### :point_right: Heart Click event
 
 <img width="400" alt="click heart" src="https://github.com/yunyungu/rovend/assets/157336396/8d07f19b-9b9c-4889-94f6-85e1094b173f">
+
+<br>
 
 > 게시글의 하트 버튼을 클릭하면 움직이는 애니메이션 효과를 적용하였습니다.
