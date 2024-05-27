@@ -34,7 +34,20 @@
 
 <h2>STYLE GUIDE / DESIGN CONCEPT</h2>
 
-(준비중입니다...)
+* Work Flow
+
+<img width="1000" alt="work flow" src="https://github.com/yunyungu/rovend/assets/157336396/939f64e6-fff7-42c9-9fde-2fc7154b3393">
+
+* Design Concept
+
+<img width="1000" alt="design concept" src="https://github.com/yunyungu/rovend/assets/157336396/86737e6b-390b-4034-83df-d17d0b705b74">
+
+
+* Style Guide
+
+<img width="1000" alt="style guide" src="https://github.com/yunyungu/rovend/assets/157336396/d707e0c0-d128-4ef3-ba50-f4b897bdc007">
+
+
 <br><br><br>
 
 ---
