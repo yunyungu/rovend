@@ -40,13 +40,13 @@
 
 <img width="500" alt="work flow" src="https://github.com/yunyungu/rovend/assets/157336396/939f64e6-fff7-42c9-9fde-2fc7154b3393">
 
-<br>
+<br><br>
 
 * Design Concept
 
 <img width="500" alt="design concept" src="https://github.com/yunyungu/rovend/assets/157336396/86737e6b-390b-4034-83df-d17d0b705b74">
 
-<br>
+<br><br>
 
 * Style Guide
 
