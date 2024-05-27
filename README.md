@@ -153,3 +153,31 @@ function hasScrolled() {
 <br>
 
 > 게시글의 하트 버튼을 클릭하면 움직이는 애니메이션 효과를 적용하였습니다.
+
+<br><br><br>
+
+---
+
+### :point_right: Bottom Bytton
+
+<img width="400" alt="footer" src="https://github.com/yunyungu/rovend/assets/157336396/4423260b-0344-4112-b64b-e2c08b0c4ccc">
+
+<br>
+
+> 하단 스크롤 했을때 최하단 footer에는 새로고침 버튼이 있습니다.
+> 이 새로고침 버튼을 통하여 추가적인 feed를 불러올 수 있습니다.<br>
+> 스크롤을 내렸을 때 상단이동 버튼이 추가적으로 등장합니다.
+
+<br><br><br>
+
+---
+
+### :point_right: My page
+
+<img width="400" alt="my page" src="https://github.com/yunyungu/rovend/assets/157336396/f2af8f57-f0a0-46ee-9054-ae1a6eb7e5d1">
+
+<br>
+
+> 데스크톱 와이드모드 (1100px 이상)에서는 My Page의 간단한 정보를 열어볼 수 있습니다.
+
+
