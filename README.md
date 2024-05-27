@@ -13,17 +13,17 @@
 <img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/rovend/assets/157336396/f93d400e-4d48-40cd-8e5f-767bbd028f29">
 <img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/rovend/assets/157336396/54e4de09-84a8-4ebd-9c7f-689aba531d08">
 
-<br><br>
+<br>
 
 > 이 웹사이트는 반응형 웹사이트의 형대로 작업하였습니다.<br>
 > 820px 이하에서는 모바일 모드로, 이상에서는 데스크톱 모드로 보여집니다.
 
-<br>
+<br><br>
 <img width="300" alt="데스크톱 내비01" src="https://github.com/yunyungu/rovend/assets/157336396/6a091f52-bd33-40a0-bd9d-09af7ce83487">
 <img width="300" alt="데스크톱 내비02" src="https://github.com/yunyungu/rovend/assets/157336396/e09245f6-65c7-44ad-ac65-e7bd9b360dce">
 <img width="400" alt="모바일 내비" src="https://github.com/yunyungu/rovend/assets/157336396/7c9c1429-4c38-4b5e-9a67-5ffe096eefb5">
 
-<br><br>
+<br>
 
 > 데스크톱 내비게이션은 좌측 상단 메뉴버튼을 통해 접근할 수 있습니다.
 > 데스크톱의 1100px 이상의 와이드스크린부터는 좌측 사이드에 고정된 형태로 나타납니다.<br>
@@ -87,7 +87,7 @@
 <img width="400" alt="swiper story" src="https://github.com/yunyungu/rovend/assets/157336396/f34a8b69-a652-4cb5-964a-dc9af361a0b1">
 <img width="400" alt="swiper feed" src="https://github.com/yunyungu/rovend/assets/157336396/4006ce81-fdc4-4f3e-bccf-4151b1983e3a">
 
-<br><br>
+<br>
 
 > 상단의 스토리보드 영역과 게시글의 이미지 스와이프는 Swiper plugin을 활용하여 작업하였습니다.<br>
 > 각각의 스타일에 어울리는 서로 다른 효과를 적용하였습니다.
@@ -101,7 +101,7 @@
 
 <img width="400" alt="fullpage" src="https://github.com/yunyungu/rovend/assets/157336396/f94c1852-dc17-4cd5-bfad-ef7ef4880474">
 
-<br><br>
+<br>
 
 > scroll down하여 header를 감추고, scroll up 하면 다시 보여주는 기능을 사용하였습니다.
 > 이는 jQuery 문법을 활용하여 작업하였습니다.
@@ -150,6 +150,6 @@ function hasScrolled() {
 
 <img width="400" alt="click heart" src="https://github.com/yunyungu/rovend/assets/157336396/8d07f19b-9b9c-4889-94f6-85e1094b173f">
 
-<br><br>
+<br>
 
 > 게시글의 하트 버튼을 클릭하면 움직이는 애니메이션 효과를 적용하였습니다.
